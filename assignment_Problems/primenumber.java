@@ -7,7 +7,7 @@ public class primenumber {
         System.out.print("Enter number: ");
         int number = sc.nextInt();
 
-        boolean isPrime = number > 1; // 1 or lower are not prime
+        boolean isPrime = number > 1;
 
         for (int i = 2; i <= number / 2; i++) {
             if (number % i == 0) {
