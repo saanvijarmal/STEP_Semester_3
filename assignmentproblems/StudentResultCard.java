@@ -1,4 +1,5 @@
-package assignmentproblems;
+﻿package assignmentproblems;
+
 import java.util.Scanner;
 
 class Student {
